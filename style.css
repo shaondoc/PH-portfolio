@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Kanit', sans-serif;  
+}
+
+.name{
+    color: chocolate;
+}
+
+section{
+    display: flex;
+}
+.half-w{
+    width: 50%;
+    padding-left:5%;
+}
+
+.half-w img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
