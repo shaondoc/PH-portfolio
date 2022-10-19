@@ -42,3 +42,24 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.exp-cont{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px rgb(218, 221, 218);
+    border-left: 5px solid red;
+    border-radius: 15px;
+}
+.exp-bg{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    width: 700;
+    padding: 30px;
+    margin-bottom: 0px;
+}
