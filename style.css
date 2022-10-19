@@ -13,7 +13,7 @@ h1{
     color: chocolate;
 }
 
-section{
+.flex-sec{
     display: flex;
     margin-bottom: 100px;
 }
